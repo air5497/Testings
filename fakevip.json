@@ -1,0 +1,11 @@
+{
+  "code": "A00000",
+  "data": {
+    "isVip": true,
+    "vipLevel": 10,
+    "vipType": 5,
+    "vipValidDate": "2099-12-31",
+    "vipName": "至尊永久會員",
+    "status": "active"
+  }
+}
